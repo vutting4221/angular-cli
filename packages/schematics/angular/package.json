@@ -9,7 +9,7 @@
   ],
   "schematics": "./collection.json",
   "dependencies": {
-    "@angular-devkit/core": "0.0.0",
+    "@angular-devkit/core": "14.2.3",
     "@angular-devkit/schematics": "0.0.0",
     "jsonc-parser": "3.0.0"
   }
