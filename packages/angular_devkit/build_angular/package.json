@@ -9,7 +9,7 @@
   "dependencies": {
     "@angular-devkit/architect": "0.0.0",
     "@angular-devkit/build-optimizer": "0.0.0",
-    "@angular-devkit/build-webpack": "0.0.0",
+    "@angular-devkit/build-webpack": "0.1402.3",
     "@angular-devkit/core": "0.0.0",
     "@babel/core": "7.12.9",
     "@babel/generator": "7.12.5",
