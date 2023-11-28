@@ -44,7 +44,7 @@
     "rimraf": "3.0.2",
     "semver": "7.3.2",
     "symbol-observable": "3.0.0",
-    "universal-analytics": "0.4.23",
+    "universal-analytics": "0.5.0",
     "uuid": "8.3.1"
   },
   "ng-update": {
